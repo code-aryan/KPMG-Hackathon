@@ -45,5 +45,5 @@ To classify the images, we used Xception model from Google and used it’s globa
 <h1 id="team">5. Team Members</h1>
 <strong>1. Sameer Jain</strong><br>
 <strong>2. Aryan Garg</strong><br>
-<strong>3. R Aakash</strong><br>
+<strong>3. Harshit Jain</strong><br>
 <strong>4. Prince Arya</strong><br>
